@@ -5,6 +5,6 @@ Problem:
 As I said, there is a large proportion of Vietnamese population in Amsterdam. It means there are many Vietnamese restaurants. To challenge them, there are 2 key points: choosing location and delivering good quality. Many high rating restaurants are located in the same area of Amsterdam. I want to find a location which is suitable for opening Vietnamese restaurant but it ‘s better if there are less good restaurants in that location.
 
 Data:
-Amsterdam ‘s areas which has many Asia restaurants from Foursquare
-https://en.wikipedia.org/wiki/Boroughs_of_Amsterdam
+- Get all Asia restaurants from Foursquare and grouping by Amsterdam ‘s areas
+- Amsterdam boroughs: https://en.wikipedia.org/wiki/Boroughs_of_Amsterdam
 
